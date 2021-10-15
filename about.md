@@ -16,7 +16,7 @@ Instant communication has never been more accessible to everyday people.  Social
 Contigo is a project idea born out of the struggles people in Puerto Rico go through for walking alone at night. From this idea, a great team has been organized for the development and deployment of the idea into a real tool to be used by many.
 
 The idea has gone through a couple of workshops, as well as become part of an organization and development process to evolve and mature. To name them chronologicaly, the idea has gone through the following:
-1. Techstars Startup Weekend (with Centro para Emprendedores): Where the idea firstly got concretized and the team won 1st place on the competition.
-2. NSF I-Corps Customer Discovery Workshop: Where the customer segments where established that allow for the best start for the idea to become reality.
-3. Insituto de Desarrollo para las Comunidades: Where the idea is currently being tested for a new customer segment.
-4. UPRM Capstone: Where the idea is currently being designed and developed follwing best practices for the anticipated deployment.
+1. **Techstars Startup Weekend (with Centro para Emprendedores):** Where the idea firstly got concretized and the team won 1st place on the competition.
+2. **NSF I-Corps Customer Discovery Workshop:** Where the customer segments where established that allow for the best start for the idea to become reality.
+3. **Insituto de Desarrollo para las Comunidades:** Where the idea is currently being tested for a new customer segment.
+4. **UPRM Capstone:** Where the idea is currently being designed and developed follwing best practices for the anticipated deployment.
