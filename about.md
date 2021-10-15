@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: What is Contigo?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Contigo is a project that started out with a question, How can we use modern technology to increase quality of life for people that have to travel alone.
 
 What else do you need?
 
